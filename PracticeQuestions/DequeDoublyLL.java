@@ -1,4 +1,4 @@
-package PracticeQuestions;
+// package PracticeQuestions;
 
 public class DequeDoublyLL {
 	static class Node{
@@ -99,7 +99,8 @@ public class DequeDoublyLL {
 		d.removefront();
 		d.removerear();
 		System.out.println(d.getfront());
-		System.out.println(d.getrear());	
+		System.out.println(d.getrear());
+	
 
 	}
 

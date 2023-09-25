@@ -1,4 +1,4 @@
-package DataStructure;
+// package DataStructure;
 
 public class CircularQueueUsingArray {
 	static class CircularQueue{

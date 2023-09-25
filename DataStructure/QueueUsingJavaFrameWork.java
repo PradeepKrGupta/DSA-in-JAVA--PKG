@@ -1,4 +1,4 @@
-package DataStructure;
+// package DataStructure;
 import java.util.*;
 
 public class QueueUsingJavaFrameWork {

@@ -1,9 +1,9 @@
-package Sorting;
+// package Sorting;
 import java.util.*;
 import java.io.*;
 
-public class Bubble_Sorting {
-	public static void insertion(int arr[], int n) {
+public class Bubble_Sorting{
+	public static void Bubble(int arr[], int n) {
 		int temp;
 		for(int i=0;i<n;i++) {
 			for(int j=i+1;j<n;j++) {
@@ -35,7 +35,7 @@ public class Bubble_Sorting {
 			System.out.print(arr[i]+" ");
 		}
 		System.out.println(" ");
-		insertion(arr,n);
+		Bubble(arr,n);
 
 	}
 

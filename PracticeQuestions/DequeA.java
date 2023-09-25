@@ -1,4 +1,4 @@
-package PracticeQuestions;
+// package PracticeQuestions;
 
 public class DequeA {
 	static class Deque{

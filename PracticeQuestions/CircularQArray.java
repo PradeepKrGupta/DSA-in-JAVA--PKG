@@ -1,4 +1,4 @@
-package PracticeQuestions;
+// package PracticeQuestions;
 
 public class CircularQArray {
 	static class CQ{

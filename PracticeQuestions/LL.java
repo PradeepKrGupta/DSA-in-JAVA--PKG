@@ -1,4 +1,4 @@
-package PracticeQuestions;
+// package PracticeQuestions;
 import java.util.*;
 public class LL {
 	Node head;

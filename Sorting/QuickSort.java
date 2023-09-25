@@ -1,4 +1,4 @@
-package Sorting;
+// package Sorting;
 import java.util.*;
 
 public class QuickSort {
